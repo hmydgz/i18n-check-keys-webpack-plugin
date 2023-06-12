@@ -1,0 +1,21 @@
+{
+  "name": "i18n-check-keys-webpack-plugin",
+  "version": "0.1.2",
+  "description": "i18n-check-keys webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin",
+    "i18n",
+    "check",
+    "check keys"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i18n-check-keys": "^0.1.2"
+  }
+}
