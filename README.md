@@ -7,6 +7,10 @@ English | [简体中文](./README.zh_CN.md)
 # Install
 ```bash
 npm i i18n-check-keys-webpack-plugin -D
+# or
+yarn add i18n-check-keys-webpack-plugin -D
+# or
+pnpm add i18n-check-keys-webpack-plugin -D
 ```
 
 # Usage

@@ -2,11 +2,11 @@ lockfileVersion: '6.0'
 
 dependencies:
   i18n-check-keys:
-    specifier: ^0.1.1
-    version: 0.1.1
+    specifier: ^0.1.6
+    version: 0.1.6
 
 packages:
 
-  /i18n-check-keys@0.1.1:
-    resolution: {integrity: sha512-88++iPASyW9H4wzMEUeOCbBNTNYwNvogC9Is8uwu5vAT2VhgvlVvuuCJfa5grw3XgASEbgYYVChTCyzP1e+R3w==}
+  /i18n-check-keys@0.1.6:
+    resolution: {integrity: sha512-O5I2X08egdxL4z589GU+c9JAVqZnAT9DcOuXljVGjUptW5B0iJGZG94JmhsKUmpzyizFf/Mb5wV7ZdR2W+0KSw==}
     dev: false
