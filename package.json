@@ -1,6 +1,6 @@
 {
   "name": "i18n-check-keys-webpack-plugin",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "i18n-check-keys webpack plugin",
   "main": "index.js",
   "files": ["index.js"],
@@ -21,6 +21,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "i18n-check-keys": "^0.1.8"
+    "i18n-check-keys": "^0.1.9"
   }
 }
