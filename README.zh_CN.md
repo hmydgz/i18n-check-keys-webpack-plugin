@@ -4,7 +4,7 @@
 
 [English](./README.md) | 简体中文
 
-![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg) ![build status](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)
+[![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin) [![build status](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions)
 
 ![](http://qiniuyun.hmydgz.top/doc/img/i18n-check-keys-webpack-plugin-img2.png)
 
