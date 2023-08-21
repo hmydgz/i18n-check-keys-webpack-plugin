@@ -2,7 +2,7 @@ const { checkI18nKeys } = require('i18n-check-keys')
 
 class I18nCheckKeysPlugin {
   /**
-   * @param {import('i18n-check-keys').I18nCheckKeysOptions} options 
+   * @param {Parameters<typeof checkI18nKeys>[0]} options
    */
   constructor(options = {}) {
     this.options = options
