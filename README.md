@@ -1,8 +1,12 @@
 # i18n-check-keys-webpack-plugin
 
+Webpack plugin for internationalization key checking
+
 English | [简体中文](./README.zh_CN.md)
 
-[![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin) [![build status](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions)
+[![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg)](https://github.com/hmydgz/i18n-check-keys-webpack-plugin)
+[![npm](https://img.shields.io/npm/dt/i18n-check-keys-webpack-plugin.svg)](https://github.com/hmydgz/i18n-check-keys-webpack-plugin)
+[![build status](https://github.com/hmydgz/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/hmydgz/i18n-check-keys-webpack-plugin/actions)
 
 ![](http://qiniuyun.hmydgz.top/doc/img/i18n-check-keys-webpack-plugin-img2.png)
 
@@ -32,4 +36,5 @@ module.exports = {
 ```
 
 # Options
-[Document](https://github.com/heimeiyaodagongzai/i18n-check-keys#options)
+This plugin is a package of `i18n-check-keys`, please refer to the original document for specific configuration
+[Document](https://github.com/hmydgz/i18n-check-keys#options)

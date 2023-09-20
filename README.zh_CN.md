@@ -4,7 +4,7 @@
 
 [English](./README.md) | 简体中文
 
-[![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin) [![build status](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/heimeiyaodagongzai/i18n-check-keys-webpack-plugin/actions)
+[![npm](https://img.shields.io/npm/v/i18n-check-keys-webpack-plugin.svg)](https://github.com/hmydgz/i18n-check-keys-webpack-plugin) [![build status](https://github.com/hmydgz/i18n-check-keys-webpack-plugin/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/hmydgz/i18n-check-keys-webpack-plugin/actions)
 
 ![](http://qiniuyun.hmydgz.top/doc/img/i18n-check-keys-webpack-plugin-img2.png)
 
@@ -34,4 +34,5 @@ module.exports = {
 ```
 
 # Options
-[Document](https://github.com/heimeiyaodagongzai/i18n-check-keys#options)
+该插件为 `i18n-check-keys` 的封装，具体配置请查看原文档
+[Document](https://github.com/hmydgz/i18n-check-keys#options)
