@@ -1,6 +1,6 @@
 {
   "name": "i18n-check-keys-webpack-plugin",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "i18n-check-keys webpack plugin",
   "main": "index.js",
   "types": "index.d.ts",
